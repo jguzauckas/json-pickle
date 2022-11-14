@@ -1,4 +1,4 @@
-This repository contains a lot of basic information about JSON and jsonpickle in Python.
+This repository contains a lot of basic information about `json` and `jsonpickle` in Python.
 
 Each component has two files with similar names. One is a markdown file (`.md`) and the other is a Python file (`.py`).
 
@@ -6,5 +6,7 @@ The markdown file has formatted notes describing concepts and talking about samp
 
 The recommended order for information is:
 
-1. install-jsonpickle
-2. use-jsonpickle
+1. install
+2. serializing
+3. deserializing
+4. iterables
