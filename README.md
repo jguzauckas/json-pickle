@@ -6,10 +6,11 @@ The markdown file has formatted notes describing concepts and talking about samp
 
 The recommended order for information is:
 
-1. install
-2. serializing
-3. deserializing
-4. iterables
+1. vscode-settings
+2. install
+3. serializing
+4. deserializing
+5. iterables
 
 Then, in the work folder, work on the following:
 1. classwork-write
