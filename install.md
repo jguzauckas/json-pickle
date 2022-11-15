@@ -55,7 +55,7 @@ Click on the variable labeled `Path`, which should highlight the whole row blue.
 Along the right side, hit the `New` button. In the area to write that becomes highlighted, paste the following, two different times:
 
 ```
-%USERDPROFILE%\AppData\Roaming\Python\Python310\Scripts
+%USERPROFILE%\AppData\Roaming\Python\Python310\Scripts
 ```
 
 ```
